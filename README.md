@@ -18,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/utkarshbank/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/utkarshbank/Leetcode/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/utkarshbank/Leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/utkarshbank/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
