@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/utkarshbank/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/utkarshbank/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshbank/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1929-concatenation-of-array](https://github.com/utkarshbank/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
