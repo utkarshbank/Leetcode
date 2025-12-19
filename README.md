@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/utkarshbank/Leetcode/tree/master/0022-generate-parentheses) |
+| [0065-valid-number](https://github.com/utkarshbank/Leetcode/tree/master/0065-valid-number) |
 ## Dynamic Programming
 |  |
 | ------- |
