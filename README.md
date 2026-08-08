@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/utkarshbank/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/utkarshbank/Leetcode/tree/master/0069-sqrtx) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/utkarshbank/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/utkarshbank/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/utkarshbank/Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/utkarshbank/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
